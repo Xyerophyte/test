@@ -1,5 +1,5 @@
 #include <isotream>
 
 int main(){
-	std::cout << "Hello branches"
+	std::cout << "Hello branches";
 }
